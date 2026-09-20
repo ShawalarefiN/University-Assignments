@@ -1,2 +1,2 @@
-# Python-University-projects
-I am going to save my python codes that i'll get from my university here
+# University-Assignments
+Saving all the assignments in this repo that i'll from my university
